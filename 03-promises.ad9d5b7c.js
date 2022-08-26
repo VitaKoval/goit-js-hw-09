@@ -1,2 +1,0 @@
-!function(){var o;(o=1500,new Promise((function(o,n){setTimeout((function(){Math.random()>.3?o("Промис выполнен успешно!"):n("Oшибка!")}))}),o)).then((function(o){var n=o.position,c=o.delay;console.log("✅ Fulfilled promise ".concat(n," in ").concat(c,"ms"))})).catch((function(o){var n=o.position,c=o.delay;console.log("❌ Rejected promise ".concat(n," in ").concat(c,"ms"))}))}();
-//# sourceMappingURL=03-promises.ad9d5b7c.js.map
